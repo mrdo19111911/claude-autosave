@@ -1,0 +1,11 @@
+{
+  "name": "claude-autosave",
+  "description": "Auto-save conversations every 10s, archive .md artifacts, and manual /export skill for Claude Code",
+  "version": "1.0.0",
+  "author": {
+    "name": "STMAI Team"
+  },
+  "license": "MIT",
+  "keywords": ["autosave", "backup", "conversation", "archive", "persistence"],
+  "hooks": "./hooks/hooks.json"
+}
